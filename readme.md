@@ -94,6 +94,7 @@ Sharing
   - [GitHub Pages](https://pages.github.com/) - Simple static websites.
   - [GitHub LFS](https://git-lfs.github.com/) - Large file storage.
 * [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+* [Compute Studio](https://compute.studio) - An open source platform for sharing computational models as web applications. As an example of how a model application looks, see [Tax-Brain](https://compute.studio/pslmodels/tax-brain). 
 
 Reviews
 
